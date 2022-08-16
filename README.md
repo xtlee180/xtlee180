@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xian-Ting Lee</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtlee180&label=Profile%20views&color=0e75b6&style=flat" alt="xtlee180" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtlee180" alt="xtlee180" /></a> </p>
-
 - 🔭 I’m currently working on **CFG Revision Game**
 
 - 🌱 I’m currently learning **Python**
